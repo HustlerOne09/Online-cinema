@@ -11,6 +11,7 @@
 .footer-link:hover {
     color: #cccccc; 
     text-decoration: underline; 
+}
 .card {
     width: 20%;
     height: 350px;
@@ -41,4 +42,8 @@
     padding: 0 10px 15px;
     color: #fff;
     text-align: center;
+}
+
+.Most-money{
+    padding: 20px 50px;
 }
